@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-3",
+  "version": "1.0.0",
+  "description": "This portfolio is mainly built using Bulma, React and JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kait-kat/Portfolio-3.git"
+  },
+  "author": "kait-kat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kait-kat/Portfolio-3/issues"
+  },
+  "homepage": "https://github.com/kait-kat/Portfolio-3#readme",
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "bulma-start": "^0.0.5",
+    "create-react-app": "^1.2.1"
+  }
+}
