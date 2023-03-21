@@ -6,9 +6,18 @@ export default function Projects() {
                 <div class="content">
                     <p>
                         <h1 class="title">Projects</h1>
-                        <div class="block">
+                        <figure>
+                            <img src=""></img>
+                            <figcaption>Spoopy</figcaption>
+                            <br></br>
+                            <img src=""></img>
+                            <figcaption>cinder.io</figcaption>
+                            <br></br>
+                            <img src=""></img>
+                            <figcaption>Cheat Leaf</figcaption>
+                        </figure>
                             
-                        </div>
+                        
                    
 
                     </p>
