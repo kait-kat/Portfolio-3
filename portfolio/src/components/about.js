@@ -1,7 +1,6 @@
 
 export default function About() {
     return (
-   
             <div class="box">
                 <div class="content">
                  <h1>Hi, I'm Kaitlyn</h1>
