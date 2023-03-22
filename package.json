@@ -19,6 +19,6 @@
   "dependencies": {
     "bulma": "^0.9.4",
     "bulma-start": "^0.0.5",
-    "create-react-app": "^1.2.1"
+    "react-router-dom": "^6.9.0"
   }
 }

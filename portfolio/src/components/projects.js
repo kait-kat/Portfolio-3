@@ -1,9 +1,10 @@
+import React from "react"
 
 export default function Projects() {
     return (
         <div class="box">
                 <div class="content">
-                        <h1 class="title">Projects</h1>
+                        <h1>Projects</h1>
                         <figure>
                             <div class="box">
                             <img src=""></img>
