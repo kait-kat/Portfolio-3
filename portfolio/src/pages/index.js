@@ -1,9 +1,6 @@
 import React from "react"
-import { About } from "../components/about"
-import { Navbar } from "../components/navbar"
-import { Projects } from "../components/projects"
-import { Footer } from "../components/footer"
-// import { App } from "app"
+import App from "./app"
+
 
 export default function Home() {
   return (
@@ -13,9 +10,9 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head> 
       <main>
+        <App>
 
-
-
+        </App>
       </main>
      </>
   )
